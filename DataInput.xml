@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<script>
+   <timestamp>05/46/2017 02:46:36</timestamp>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355661</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Marcus</FirstName>
+         <MiddleName>D</MiddleName>
+         <Surname>Rashford</Surname>
+         <DateOfBirth>28/12/1980</DateOfBirth>
+         <TelephoneNumber>3453623425</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>3</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 170</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355662</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Wayne</FirstName>
+         <MiddleName>E</MiddleName>
+         <Surname>Rooney</Surname>
+         <DateOfBirth>28/12/1981</DateOfBirth>
+         <TelephoneNumber>3454983581</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>4</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 171</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355663</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Aaron</FirstName>
+         <MiddleName>F</MiddleName>
+         <Surname>Lennon</Surname>
+         <DateOfBirth>28/12/1982</DateOfBirth>
+         <TelephoneNumber>3454983582</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>5</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 172</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355664</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Harry</FirstName>
+         <MiddleName>G</MiddleName>
+         <Surname>Kane</Surname>
+         <DateOfBirth>28/12/1983</DateOfBirth>
+         <TelephoneNumber>3454983583</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>6</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 173</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355665</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Jermain</FirstName>
+         <MiddleName>H</MiddleName>
+         <Surname>Defoe</Surname>
+         <DateOfBirth>28/12/1984</DateOfBirth>
+         <TelephoneNumber>3454983584</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>7</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 174</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355666</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>David</FirstName>
+         <MiddleName>I</MiddleName>
+         <Surname>Beckham</Surname>
+         <DateOfBirth>28/12/1985</DateOfBirth>
+         <TelephoneNumber>3454983585</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>8</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 175</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355667</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Gareth</FirstName>
+         <MiddleName>J</MiddleName>
+         <Surname>Southgate</Surname>
+         <DateOfBirth>28/12/1986</DateOfBirth>
+         <TelephoneNumber>3454983586</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>9</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 176</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355668</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Alan</FirstName>
+         <MiddleName>K</MiddleName>
+         <Surname>Shearar</Surname>
+         <DateOfBirth>28/12/1987</DateOfBirth>
+         <TelephoneNumber>3454983587</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>10</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 177</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355669</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>Jamie</FirstName>
+         <MiddleName>L</MiddleName>
+         <Surname>Vardy</Surname>
+         <DateOfBirth>28/12/1988</DateOfBirth>
+         <TelephoneNumber>3454983588</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>11</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 178</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Customer</requestEvent>
+      <customer>
+         <CustomerReferenceNumber>1244355670</CustomerReferenceNumber>
+         <Title>Mr</Title>
+         <FirstName>David</FirstName>
+         <MiddleName>M</MiddleName>
+         <Surname>Moyes</Surname>
+         <DateOfBirth>28/12/1989</DateOfBirth>
+         <TelephoneNumber>3454983589</TelephoneNumber>
+         <Email>test@test1.com</Email>
+         <Address1>12</Address1>
+         <Address2>Primrose Close</Address2>
+         <Address3>Broadfield</Address3>
+         <Address4>Crawley</Address4>
+         <Address5>Sussex</Address5>
+         <Address6>Surrey County</Address6>
+         <PostCode>RH1 179</PostCode>
+      </customer>
+   </event>
+   <event>
+      <requestEvent>Card</requestEvent>
+      <smartCard>
+         <CustomerReferenceNumber>1244355661</CustomerReferenceNumber>
+         <Designation>Club50</Designation>
+         <CardNickName>MasterCard</CardNickName>
+         <Identifier>4534545352353</Identifier>
+         <State>Active</State>
+         <Expiry>28/12/2011</Expiry>
+         <Photo>Test Photo</Photo>
+      </smartCard>
+   </event>
+   <event>
+      <requestEvent>Card</requestEvent>
+      <smartCard>
+         <CustomerReferenceNumber>1244355661</CustomerReferenceNumber>
+         <Designation>Club51</Designation>
+         <CardNickName>VisaCard</CardNickName>
+         <Identifier>4534545352354</Identifier>
+         <State>Active</State>
+         <Expiry>29/11/2012</Expiry>
+         <Photo>Test Photo</Photo>
+      </smartCard>
+   </event>
+   <event>
+      <requestEvent>Product</requestEvent>
+      <product>
+         <cardId>4534545352353</cardId>
+         <expiryDate>28/12/2012</expiryDate>
+         <name>Club50 membership</name>
+         <payment>
+            <paymentReference>AI99923432324BNZA</paymentReference>
+            <price>1200</price>
+         </payment>
+         <startDate>28/12/2011</startDate>
+      </product>
+   </event>
+</script>
